@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+
+.app {
+  display: flex;
+  background-color: #f5f7fb;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
